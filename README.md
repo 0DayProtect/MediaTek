@@ -1,5 +1,6 @@
 # MediaTek
-MediaTek Melrose 2019 LineageOS Android GSI
+MediaTek Melrose 2019 
+LineageOS Android GSI
 
 
 Boot Rom exploit
