@@ -1,6 +1,6 @@
 # MediaTek Boot Rom exploit
 
-MediaTek Melrose 2019 
+Melrose 2019 
 LineageOS Android GSI
 
 Partial GSI Transition model it requires vendor packages 
